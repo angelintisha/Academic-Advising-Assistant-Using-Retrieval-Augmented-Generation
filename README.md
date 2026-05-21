@@ -50,4 +50,12 @@ class schedules — without hallucinating information outside the source documen
 | `FinalProject_Chromadb.py` | Document ingestion, chunking, embedding, and vector store creation |
 | `FinalProject_Retriever.py` | RAG chain setup and sample query testing |
 | `FinalProject_StreamlitApp.py` | Full Streamlit chat application |
-| `Report.pdf` | Full project report |
+| `Academic Advising Assistant Using Retrieval-Augmented Generation_Report.pdf` | Full project report |
+| `Academic Advising Assistant Using Retrieval-Augmented Generation.pptx` | Project presentation slides |
+
+
+
+
+
+
+
